@@ -1,7 +1,9 @@
 Login page, after login keep a token and pass in all future API's
 
 It has a login screen with static username and password shown below,
+
 **Username: eve.holt@reqres.in
+
 Password: cityslicka**
 
 Following steps are involved this application
