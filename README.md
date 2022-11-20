@@ -23,7 +23,9 @@ Installed redux-saga
 $ npm install redux-saga
 ```
 Created the redux saga configuration in `\src\store\configureStore.js`
+
 Created the actions files in `\src\actions` folder
+
 Created the reducers in `\src\reducers` folder
 
 Kept the login status value and token value as shown below in the intialstate
